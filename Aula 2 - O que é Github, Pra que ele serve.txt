@@ -1,0 +1,29 @@
+Repositório Local -> Git
+Repositório Remoto -> Github
+
+--------------------------------------------------------
+
+Github além de subir seus cógidos ainda serve para:
+-> Testar outros códigos
+-> Colaborar com outros códigos
+-> Mostrar problemas e "Issues"
+-> Conhecer novos programadores
+
+--------------------------------------------------------
+
+Características do Github:
+-> Repositórios Ilimitados
+-> Hospedagem de código-fonte
+-> Características de rede social
+-> GitHub Pages
+-> Colaboração
+-> Forks
+
+--------------------------------------------------------
+
+Só existe o GitHub? NÃO
+-GitLab
+-GitBucket
+-PHABRICATOR
+-Gogs
+-Kallithea
