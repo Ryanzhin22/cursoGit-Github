@@ -1,0 +1,9 @@
+ISSUE
+
+-> Issue é um problema, uma questão ou um levantamento de alguma coisa
+-> Você pode participar de projetos usando as Issues
+-> Ex: Estou usando VSCode, deu um erro e eu não faço ideia como se resolve um problema e preciso de ajuda (Cria uma issue)
+-> Antes de postar uma Issue, verifique antes se seu problema já não foi postado (boa prática)
+
+PULL REQUEST
+-> Ex: Estou usando VSCOde, deu um erro e eu consigo resolver esse erro com meu código, após a resolução, crio uma branch do VSCode e faço um Pull Request

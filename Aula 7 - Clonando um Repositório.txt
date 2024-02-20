@@ -1,0 +1,7 @@
+GIT CLONE
+
+-> É um comando para baixar todos os arquivos de um repositório na sua máquina
+-> É possível fazer qualquer alterações nos arquivos
+-> Não é possível fazer um push num repositório clonado que não seja seu
+
+ 
