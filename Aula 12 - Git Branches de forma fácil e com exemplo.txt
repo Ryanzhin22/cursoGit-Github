@@ -11,7 +11,7 @@ MASTER
 Ramo Master -> Branch Principal
 
 Se uma aplicação está na versão 4.0, essa será a versão MASTER, porém os desenvolvedores estarão
-desenvolvendo a versão 4.1, onde a mesma estará em outro branch
+desenvolvendo a versão 4.1, onde a mesma estará em outro branch.
 
 ----------------------------------------------------
 
