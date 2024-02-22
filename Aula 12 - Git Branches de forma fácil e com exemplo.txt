@@ -1,0 +1,21 @@
+Branch
+-> Árvore
+-> Tronco Principal (Master)
+-> Criar Branch para resolver erros
+
+----------------------------------------------------
+
+MASTER
+
+"É o ramo de produção"
+Ramo Master -> Branch Principal
+
+Se uma aplicação está na versão 4.0, essa será a versão MASTER, porém os desenvolvedores estarão
+desenvolvendo a versão 4.1, onde a mesma estará em outro branch
+
+----------------------------------------------------
+
+-> Se uma feature nova está sendo desenvolvida ela precisa ser feita em uma branch separada da principal,
+pois se der erro, a versão padrão do site será mantida.
+-> Caso essa feature seja desenvolvida, testada e esteja tudo certo, é possível fazer um MERGE, onde a 
+Branch separada será parte da Branch principal.
