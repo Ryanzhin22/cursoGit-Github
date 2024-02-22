@@ -1,0 +1,46 @@
+HTML -> Linguagem de Marcação
+
+Readme.md <- MD = Markdown
+
+-------------------------------------------------
+
+Markdown
+-> Simples de Ler
+-> Fácil de ser convertido de MD para HTML
+-> Muitas tecnologias usam Markdown
+-> Simples de aprender
+
+------------------------------------------------
+
+Markdown - Linguagem
+
+* / _ = Itálico
+** / __ = Negrito
+~~ = Risco no Meio
+# = Título 
+## = Título Nível 2
+### = Título Nível 3
+*** / --- = Linha horizontal
+1. Teste = Lista Numerada
+* Teste = Lista Demarcada
+- [] Criar página = Lista de Tarefas
+- [x] Criar página = Lista de Tarefa marcada
+` = Comando programação
+``` = Código inteiro programação
+: = Emoji
+@ = Usuários do Github
+> = Mensagem enviada
+
+
+Para colocar Imagem
+-> Arraste a imagem e solte no local desejado
+
+Para colocar Link
+(Frase)[https://link.com]
+
+Para fazer Tabela (estrutura)
+Num | Nome | nota
+---|---|---
+1 | Gustavo | 8,5
+2 | José | 10
+3 | Maria | 9,0
