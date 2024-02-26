@@ -1,0 +1,9 @@
+Github Desktop
+-> Faz com que seja possível dar push, commit, pull, etc... Sem usar um código
+-> É possível utilizar todos os repositórios e criar novos
+-> Mudanças nos arquivos serão avisadas
+
+ATALHOS:
+-> Ctrl Shift A - Abre VSCode
+-> Ctrl Enter - Faz o Commit 
+-> Ctrl P - Push no repositório
