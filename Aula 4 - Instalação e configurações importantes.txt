@@ -1,7 +1,0 @@
-Google: https://www.google.com/intl/pt-BR/chrome/?standalone=1
-
-VSCode: https://code.visualstudio.com
-
-Git: https://git-scm.com
-
-Github Desktop: https://desktop.github.com

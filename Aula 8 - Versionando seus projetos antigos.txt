@@ -1,4 +1,0 @@
-O GitHub é importante também para fazer upload de projetos antigos, realizados na faculdade ou no curso mas que não foram commitados.
-
-Esses projetos podem ajudar outras pessoas que estejam procurando por conteúdos e essas mesmas pessoas podem fazer ISSUES no seu projeto, insinuando um erro ou uma
-melhoria e pedindo para consertar
