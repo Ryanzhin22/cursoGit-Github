@@ -1,9 +1,11 @@
 # Resumos Curso Git/Github
 
-Esse repositório irá ser alimentado com todos os resumos feito durante o curso de Git e GitHub do **Gustavo Guanabara**
+Esse repositório irá ser alimentado com todos os resumos feito durante o curso de Git e GitHub do **Gustavo Guanabara** \
+As aulas 14 e 15 serão atualizadas com aulas do curso do **Gustavo Caetano** \
 
 Curso em Vídeo: https://www.youtube.com/@CursoemVideo \
-Curso de Git/GitHub: https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&index=2
+Curso de Git/GitHub: https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&index=2 \
+Curso Gustavo Caetano: https://www.youtube.com/watch?v=VFrn41hkUl8&list=PLylCwvNCtoanYEIC4OBMO2hfB-ihCSv9Y
 
 **Aula 1** - O que é GIT, o que é Versionamento \
 **Aula 2** - O que é Github, Pra que ele serve \
@@ -18,3 +20,5 @@ Curso de Git/GitHub: https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm
 **Aula 11** - Seu Github mais seguro \
 **Aula 12** - Git Branches de forma fácil e com exemplo \
 **Aula 13** - Github Pages
+**Aula 14** - Pull Request
+**Aula 15** - Git Pull
