@@ -21,4 +21,4 @@ Curso Gustavo Caetano: https://www.youtube.com/watch?v=VFrn41hkUl8&list=PLylCwvN
 **Aula 12** - Git Branches de forma fácil e com exemplo \
 **Aula 13** - Github Pages \
 **Aula 14** - Pull Request \
-**Aula 15** - Git Pull \
+**Aula 15** - Git Pull 
