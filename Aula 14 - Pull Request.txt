@@ -1,0 +1,14 @@
+USANDO COMANDOS ---------------------
+
+git branch "teste" -> Cria um branch por meio do código (Sem aspas)
+git checkout teste -> Sai da branch atual e vai para a "teste"
+git checkout -b teste2 -> Cria uma branch, sai da atual e vai pra a branch criada "teste2"
+
+PULL REQUEST ------------------------
+
+-> Enviar uma branch criada para a branch main
+-> É uma requisição para fazer a merge
+-> O Pull Request mostra todos os commits
+-> É possível fazer commits mesmo depois de ter enviado um Pull Request
+-> Reviwers são os usuários que vão fazer o code review
+-> Assigners são os responsáveis pelo Pull Request
