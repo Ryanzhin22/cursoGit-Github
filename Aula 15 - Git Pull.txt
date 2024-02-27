@@ -1,0 +1,9 @@
+GIT PULL ---------------------
+
+-> Serve para pegar os arquivos atualizados do Github para o local
+-> Primeira coisa a se fazer no começo de um dia de trabalho, para verificar se tem modificações
+-> Usar sempre a última versão
+
+COMANDOS ---------------------
+
+-> git pull | trás todos os arquivos do repositório remoto para o local
