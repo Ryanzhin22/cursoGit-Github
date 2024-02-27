@@ -19,6 +19,6 @@ Curso Gustavo Caetano: https://www.youtube.com/watch?v=VFrn41hkUl8&list=PLylCwvN
 **Aula 10** - Guia de Linguagem Markdown \
 **Aula 11** - Seu Github mais seguro \
 **Aula 12** - Git Branches de forma fácil e com exemplo \
-**Aula 13** - Github Pages
-**Aula 14** - Pull Request
-**Aula 15** - Git Pull
+**Aula 13** - Github Pages \
+**Aula 14** - Pull Request \
+**Aula 15** - Git Pull \
